@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Git configurations
+.git/
